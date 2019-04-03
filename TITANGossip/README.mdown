@@ -1,0 +1,4 @@
+TITANGossip
+===
+
+TITANGossip is a Message relay ( ensures message delivery by gossiping between all connected nodes ) that uses DHT to find other peers.
